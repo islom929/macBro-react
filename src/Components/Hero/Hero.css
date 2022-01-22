@@ -1,0 +1,76 @@
+.hero__container {
+  width: 100%;
+  max-width: 1320px;
+  padding: 15px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.hero__left {
+  padding-top: 150px;
+  width: 577px;
+}
+
+.hero__right {
+  width: 600px;
+}
+
+.hero__right button {
+  border: 1px solid transparent;
+  border-radius: 12px;
+  padding: 16px 10px;
+  background-color: transparent;
+  border-color: black;
+}
+
+.hero-ram__box button, .hero-memory__box button {
+  width: 181px;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.hero-ram__box, .hero-memory__box, .hero-color__box {
+  position: relative;
+  margin-top: 50px;
+  padding: 8px;
+}
+
+.hero-ram__box button:not(:last-child), .hero-memory__box button:not(:last-child), .hero-color__box button:not(:last-child) {
+  margin-right: 8px;
+}
+
+.hero-color__box button:not(:last-child) {
+  margin-bottom: 8px;
+}
+
+.hero-price__box {
+  margin: 20px 0;
+  font-size: 30px;
+  font-weight: 500;
+  padding: 8px;
+}
+
+.hero-bookmark__box {
+  padding: 8px;
+}
+
+.hero-bookmark__box .hero-bookmrak__btn {
+  border: none;
+  width: 100%;
+  height: 48px;
+  padding: 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  background-color: #2477ea;
+}
+
+.btn--active {
+  border-color: #2477ea !important;
+}
+/*# sourceMappingURL=Hero.css.map */

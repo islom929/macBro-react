@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,AAAA,QAAQ,CAAC;EACrB,OAAO,EAAE,KAAK;EACd,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,KAAK;EACV,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;CACjB",
+    "sources": [
+        "Ram.scss"
+    ],
+    "names": [],
+    "file": "Ram.css"
+}

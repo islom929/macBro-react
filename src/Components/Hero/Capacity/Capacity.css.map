@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,iBAAiB,AAAA,QAAQ,CAAC;EACxB,OAAO,EAAE,UAAU;EACnB,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,KAAK;EACV,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,GAAG;CACjB",
+    "sources": [
+        "Capacity.scss"
+    ],
+    "names": [],
+    "file": "Capacity.css"
+}

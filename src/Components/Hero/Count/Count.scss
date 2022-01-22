@@ -1,0 +1,44 @@
+.hero-count__box {
+  margin-left: 8px;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+  height: 40px;
+  border: 1px solid #444;
+  border-radius: 8px;
+
+  button {
+    width: 56px;
+    height: 40px;
+    border: none !important;
+    border-radius: 0 !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 32px;
+    padding: 0 !important;
+
+    svg {
+      width: 30px !important;
+      height: 30px !important;
+      display: flex;
+      align-items: center;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+.hero-count__box {
+
+ .hero-count__btn-minus {
+    border-right: 1px solid #444 !important;
+  }
+  .hero-count__btn-plus {
+    border-left: 1px solid #444 !important;
+  }
+  .hero-count__result {
+    font-size: 23px;
+  }
+}

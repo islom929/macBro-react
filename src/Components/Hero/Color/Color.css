@@ -1,0 +1,42 @@
+.hero-color__box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.hero-color__box::before {
+  content: 'Colors';
+  position: absolute;
+  top: -30px;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.hero-color__btn {
+  width: 280px;
+  height: 70px;
+  padding: 5px 12px !important;
+  font-size: 12px;
+}
+
+.hero-color__btn span {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: block;
+  background-color: gray;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5px;
+}
+
+.hero-color__gold {
+  background-color: #d29d00 !important;
+}
+
+.hero-color__silver {
+  background-color: silver !important;
+}
+/*# sourceMappingURL=Color.css.map */

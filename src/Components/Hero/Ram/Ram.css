@@ -1,0 +1,8 @@
+.hero-ram__box::before {
+  content: 'Ram';
+  position: absolute;
+  top: -30px;
+  font-size: 17px;
+  font-weight: 700;
+}
+/*# sourceMappingURL=Ram.css.map */
